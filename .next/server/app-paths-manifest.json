@@ -1,8 +1,0 @@
-{
-  "/api/history/save/route": "app/api/history/save/route.js",
-  "/api/transliterate/route": "app/api/transliterate/route.js",
-  "/api/scan/route": "app/api/scan/route.js",
-  "/transliterate/page": "app/transliterate/page.js",
-  "/translate/page": "app/translate/page.js",
-  "/scan/page": "app/scan/page.js"
-}
